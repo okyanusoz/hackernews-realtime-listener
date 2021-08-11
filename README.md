@@ -1,6 +1,6 @@
 # Hacker News Realtime Listener
 
-[![NPM version](https://img.shields.io/npm/v/hackernews-realtime-listener)](https://npmjs.com/package/hackernews-realtime-listener) ![Minizipped bundle size](https://img.shields.io/bundlephobia/minzip/hackernews-realtime-listener)
+[![NPM version](https://img.shields.io/npm/v/hackernews-realtime-listener)](https://npmjs.com/package/hackernews-realtime-listener)
 
 This JavaScript package allows you to listen to Hacker News stories and comments in real time. It uses [the Hacker News API](https://github.com/HackerNews/API#readme).
 
