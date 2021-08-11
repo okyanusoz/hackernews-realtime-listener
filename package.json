@@ -1,0 +1,25 @@
+{
+  "name": "hackernews-realtime-listener",
+  "description": "Get realtime Hacker News updates",
+  "version": "2.0.0",
+  "main": "index.js",
+  "keywords": [
+    "hacker",
+    "news",
+    "ycombinator"
+  ],
+  "homepage": "https://github.com/okyanusoz/hackernews-realtime-listener",
+  "repository": {
+    "url": "https://github.com/okyanusoz/hackernews-realtime-listener"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^9.0.0-beta.8"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
